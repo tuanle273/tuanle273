@@ -1,13 +1,13 @@
 ## Welcome to my GitHub :mask:
 - I’m @tuanle273
-- My f*cking passion is Game 🤷‍♂️
+
 
 <!---
 tuanle273/tuanle273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/tuanle273/Web-IO?style=social">    <a href="https://github.com/tuanle273/Web-IO/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tuanle273/Web-IO?style=social"></a>
-
+<img class="image-placeholder" src="https://i.imgur.com/jmEBCky.gif">
 <!---
 ## 🔧 Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](#) [![Laravel Badge](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=whiteB)](#)
