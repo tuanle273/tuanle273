@@ -1,6 +1,7 @@
 ## Welcome to my GitHub :mask:
 - I’m @tuanle273
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Le+Anh+Tuan;Study+at+University+of+Greenwich)](https://git.io/typing-svg)
 
 <!---
 tuanle273/tuanle273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
